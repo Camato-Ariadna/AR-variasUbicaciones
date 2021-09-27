@@ -45,7 +45,7 @@ var models = [
         scale: '0.5 0.5 0.5',
         info: 'Feliz Navidad',
         rotation: '0 0 0',
-        position: '0 -2 2',
+        position: '0 -2 5',
     },
 ];
 
