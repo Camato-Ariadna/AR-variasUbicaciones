@@ -36,6 +36,13 @@ function staticLoadPlaces() {
                 lng: -74.06538,
             }
         },
+        {
+            name: 'Jaime',
+            location: {
+                lat: 4.91596,
+                lng: -74.018709,
+            }
+        },
     ];
 }
 
